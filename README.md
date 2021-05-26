@@ -1,10 +1,12 @@
-### Hi there, I'm Sagar - aka [sagarshah95][website] 👋
+### Hi there, I'm Sagar 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](sagarshah95.github.io/personal_blog/)
+## I'm a Brother, Son, Developer, and Learner!!
 
-<img align="left" alt="Sagar's GitHub Stats" src="https://github-readme-stats-zeta-blond.vercel.app/api?username=sagarshah95&show_icons=true&hide_border=true" />
-
-![](https://komarev.com/ghpvc/?username=your-github-sagarshah95)
+- 🔭 I just complted my Masters Degree
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play chess and table tennis
 
 <!--
 **sagarshah95/sagarshah95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
