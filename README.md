@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img align="left" alt="Sagar's GitHub Stats" src="https://github-readme-stats-zeta-blond.vercel.app/api?username=sagarshah95&show_icons=true&hide_border=true" />
+
+![](https://komarev.com/ghpvc/?username=your-github-sagarshah95)
+
 <!--
 **sagarshah95/sagarshah95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
