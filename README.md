@@ -1,14 +1,10 @@
-### Hi there, I'm Sagar 👋
+### Hi there 👋
 
-## I'm a Brother, Son, Developer, and Learner!!
+<img align="left" alt="Sagar's GitHub Stats" src="https://github-readme-stats-zeta-blond.vercel.app/api?username=sagarshah95&show_icons=true&hide_border=true" />
 
-- 🔭 I just complted my Masters Degree
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess and table tennis
+![](https://komarev.com/ghpvc/?username=your-github-sagarshah95)
 
-
+<!--
 **sagarshah95/sagarshah95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
